@@ -54,6 +54,3 @@ const radio = {
 
 //console.log(radio.changeStation(0))
 //This will play on terminal: RnB & Hip hop: Now Playing: No Role Modelz by J Cole
-
-//console.log(radio.changeStation(2))
-//Reggae: Now Playing: The Magic Flute by Bob Marley
